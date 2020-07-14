@@ -3,7 +3,7 @@
 num = 10
 
 while (num > 0) do
-  puts num
+  prints num
   num--
   
   # if(num == 1)

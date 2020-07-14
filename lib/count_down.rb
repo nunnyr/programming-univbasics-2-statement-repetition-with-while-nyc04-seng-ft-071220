@@ -2,12 +2,12 @@
 
 num = 10
 
-while num > 0 do
+while (num > 0) do
   puts num
   num--
   
-  if(num == 1)
-    puts "Happy New Year!"
-  end
+  # if(num == 1)
+  #   puts "Happy New Year!"
+  # end
   
 end

@@ -2,7 +2,7 @@
 
 num = 10
 
-while (num > 0) do
+while (num >= 1) do
   prints num
   num--
   

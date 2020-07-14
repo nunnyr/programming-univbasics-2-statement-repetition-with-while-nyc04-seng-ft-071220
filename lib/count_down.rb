@@ -4,7 +4,7 @@ num = 10
 
 while (num >= 1) do
   puts num
-  num--
+  num -= 1
   
   # if(num == 1)
   #   puts "Happy New Year!"
